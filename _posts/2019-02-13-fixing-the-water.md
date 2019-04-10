@@ -28,4 +28,6 @@ I also hooked up a heater to a homemade thermostat relay that my dad gave me. So
 
 ![burst faucet](/assets/images/water/heater.jpg)
 
-It isn't finished. The line to the garage is still capped off. So I can't use the hose. When it warms up a bit I'll fix that. My plan is to remove all the copper piping that I can and replace it with Pex. I just need to learn about Pex between now and then.
+It isn't finished. The line to the garage is still capped off. So I can't use the hose. When it warms up a bit I'll fix that. My plan is to remove all the copper piping that I can and replace it with Pex. I just need to learn about Pex between now and then. My understanding is that this will be a little more resistent to freezing, but I can also more easily fix it in the future because I haven't been successful in learning how to solder copper pipe. 
+
+One more thing to add to my personal summer todo list.
