@@ -53,6 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      cover-img: /assets/images/fence/patch.jpg
       comments: false
       social-share: false
   - scope:
