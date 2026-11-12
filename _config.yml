@@ -29,9 +29,36 @@ logo: https://s.gravatar.com/avatar/b8cea99613fc8647634eff11d2e00043?s=120
 # Build settings
 markdown: kramdown
 mathjax: true
-theme: jekyll-theme-minimal
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# beautiful-jekyll settings
+paginate: 5
+avatar: https://s.gravatar.com/avatar/b8cea99613fc8647634eff11d2e00043?s=120
+round-avatar: true
+navbar-links:
+  About: "about"
+social-network-links:
+  github: krusek
+rss-description: I'm a software developer, woodworker and mathematician.
+excerpt_length: 50
+date_format: "%B %-d, %Y"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false
+      social-share: false
+  - scope:
+      path: ""
+    values:
+      layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
